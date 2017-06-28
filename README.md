@@ -1,2 +1,2 @@
 # cron_job_management
-depend on supervisor
+depend on supervisor and redis
